@@ -1,0 +1,24 @@
+C:\Users\matth\Documents\GDAPS105-06\Graphs\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\matth\Documents\GDAPS105-06\Graphs\Graphs\bin\Debug\Graphs.exe
+C:\Users\matth\Documents\GDAPS105-06\Graphs\Graphs\bin\Debug\Graphs.pdb
+C:\Users\matth\Documents\GDAPS105-06\Graphs\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+C:\Users\matth\Documents\GDAPS105-06\Graphs\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\Documents\GDAPS105-06\Graphs\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\GDAPS105-06\Graphs\Graphs\obj\Debug\Graphs.exe
+C:\Users\matth\Documents\GDAPS105-06\Graphs\Graphs\obj\Debug\Graphs.pdb
+C:\Users\matth\Documents\GDAPS105-06\Graph Searching - DFS\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\matth\Documents\GDAPS105-06\Graph Searching - DFS\Graphs\bin\Debug\Graphs.exe
+C:\Users\matth\Documents\GDAPS105-06\Graph Searching - DFS\Graphs\bin\Debug\Graphs.pdb
+C:\Users\matth\Documents\GDAPS105-06\Graph Searching - DFS\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+C:\Users\matth\Documents\GDAPS105-06\Graph Searching - DFS\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\Documents\GDAPS105-06\Graph Searching - DFS\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\GDAPS105-06\Graph Searching - DFS\Graphs\obj\Debug\Graphs.exe
+C:\Users\matth\Documents\GDAPS105-06\Graph Searching - DFS\Graphs\obj\Debug\Graphs.pdb
+C:\Users\matth\Documents\GDAPS105-06\Dijkstra's Algorithm\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\matth\Documents\GDAPS105-06\Dijkstra's Algorithm\Graphs\bin\Debug\Graphs.exe
+C:\Users\matth\Documents\GDAPS105-06\Dijkstra's Algorithm\Graphs\bin\Debug\Graphs.pdb
+C:\Users\matth\Documents\GDAPS105-06\Dijkstra's Algorithm\Graphs\obj\Debug\Graphs.csproj.AssemblyReference.cache
+C:\Users\matth\Documents\GDAPS105-06\Dijkstra's Algorithm\Graphs\obj\Debug\Graphs.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\Documents\GDAPS105-06\Dijkstra's Algorithm\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\matth\Documents\GDAPS105-06\Dijkstra's Algorithm\Graphs\obj\Debug\Graphs.exe
+C:\Users\matth\Documents\GDAPS105-06\Dijkstra's Algorithm\Graphs\obj\Debug\Graphs.pdb
